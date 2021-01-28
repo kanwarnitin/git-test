@@ -6,3 +6,5 @@ $ exec ssh-agent bash
 $ eval ssh-agent -s
 $ ssh-add ~/.ssh/id_rsa
 ```
+
+[Formatting help](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
